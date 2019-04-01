@@ -1,6 +1,8 @@
 # Mechard
 This repository stores/documents what survived HDD crash from the Mechanical card project I did in 2015!
 
+Checkeout the #Instructables I made for this project here: https://www.instructables.com/id/Mechard-Mechanical-Greetings-Card/
+
 
 
 
